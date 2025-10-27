@@ -28,7 +28,6 @@ I'm passionate about exploring the intersection of **finance and data**, buildin
 ## 📂 Featured Projects
 - **[Rate Cut Event Study](https://github.com/yourusername/project2)** – Explored sector responses to Federal Reserve rate cuts with Python & pandas.  
 
-*(Replace links with your actual repos)*
 
 ---
 
