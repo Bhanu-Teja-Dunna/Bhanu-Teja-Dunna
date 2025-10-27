@@ -11,7 +11,7 @@ I'm passionate about exploring the intersection of **finance and data**, buildin
 - 💻 Skilled in **Python, Excel, Financial Modeling, Data Analysis, and Visualization**  
 - 📊 Interested in **Investment Analysis, Portfolio Optimization, and Risk Management**  
 - 🌱 Learning **Advanced Quantitative Finance, Machine Learning for Finance**  
-- ⚡ Fun fact: I also enjoy creating **gaming & art content** on the side  
+- ⚡ Fun fact: I also enjoy creating **art content** on the side  
 
 ---
 
