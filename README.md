@@ -28,10 +28,7 @@ I explore the intersection of **finance and data**, building analytical models, 
 ## 📂 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| ![Rate Cut Study]| Sector response analysis to Federal Reserve rate cuts | [Repo](https://github.com/Bhanu-Teja-Dunna/Fedrate_cut_analysis) |
-
-
-> Replace screenshot links with actual images/GIFs from your repos for extra flair.
+| **Rate Cut Study** | Sector response analysis to Federal Reserve rate cuts | [Repo](https://github.com/Bhanu-Teja-Dunna/Fedrate_cut_analysis) |
 
 ---
 
