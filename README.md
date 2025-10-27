@@ -1,4 +1,4 @@
-# Hello👋, Bhanu Teja here!
+# Hello 👋, Bhanu Teja here!
 
 ### MS in Finance | Python & Financial Modeling | Quantitative Analysis Enthusiast
 
@@ -6,16 +6,16 @@ I explore the intersection of **finance and data**, building analytical models, 
 
 ---
 
-## 🚀 About Me
-- 🎓 MS in Finance, University at Buffalo  
-- 💻 Skills: **Python, Excel, Financial Modeling, Data Analysis, Visualization**  
-- 📊 Interests: **Investment Analysis, Portfolio Optimization, Risk Management**  
-- 🌱 Learning: **Quantitative Finance & Machine Learning for Finance**  
-- ⚡ Fun: **Gaming & Art**  
+## About Me
+- MS in Finance, University at Buffalo  
+- Skills: **Python, Excel, Financial Modeling, Data Analysis, Visualization**  
+- Interests: **Investment Analysis, Portfolio Optimization, Risk Management**  
+- Learning: **Quantitative Finance & Machine Learning for Finance**  
+- Fun: **Gaming & Art**  
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -25,14 +25,14 @@ I explore the intersection of **finance and data**, building analytical models, 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
 | **Rate Cut Study** | Sector response analysis to Federal Reserve rate cuts | [Repo](https://github.com/Bhanu-Teja-Dunna/Fedrate_cut_analysis) |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Bhanu Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Teja-Dunna&show_icons=true&count_private=true&theme=radical)  
 
