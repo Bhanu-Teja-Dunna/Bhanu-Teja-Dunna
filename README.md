@@ -32,7 +32,7 @@ I'm passionate about exploring the intersection of **finance and data**, buildin
 ---
 
 ## 📈 GitHub Stats
-![Bhanu Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Bhanu-Teja-Dunna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
