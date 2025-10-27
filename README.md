@@ -1,17 +1,17 @@
-# Hi there 👋, I'm Bhanu Teja
+# Hello👋, Bhanu Teja here!
 
 ### MS in Finance | Python & Financial Modeling | Quantitative Analysis Enthusiast
 
-I'm passionate about exploring the intersection of **finance and data**, building analytical models, and sharing insights through code.  
+I explore the intersection of **finance and data**, building analytical models, and sharing insights through code.  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing **MS in Finance** at University at Buffalo  
-- 💻 Skilled in **Python, Excel, Financial Modeling, Data Analysis, and Visualization**  
-- 📊 Interested in **Investment Analysis, Portfolio Optimization, and Risk Management**  
-- 🌱 Learning **Advanced Quantitative Finance, Machine Learning for Finance**  
-- ⚡ Fun fact: I also enjoy creating **art content** on the side  
+- 🎓 MS in Finance, University at Buffalo  
+- 💻 Skills: **Python, Excel, Financial Modeling, Data Analysis, Visualization**  
+- 📊 Interests: **Investment Analysis, Portfolio Optimization, Risk Management**  
+- 🌱 Learning: **Quantitative Finance & Machine Learning for Finance**  
+- ⚡ Fun: **Gaming & Art**  
 
 ---
 
@@ -26,13 +26,22 @@ I'm passionate about exploring the intersection of **finance and data**, buildin
 ---
 
 ## 📂 Featured Projects
-- **[Rate Cut Event Study](https://github.com/Bhanu-Teja-Dunna/Fedrate_cut_analysis)** – Explored sector responses to Federal Reserve rate cuts with Python & pandas.  
+| Project | Description | Link |
+|---------|-------------|------|
+| ![Rate Cut Study]| Sector response analysis to Federal Reserve rate cuts | [Repo](https://github.com/Bhanu-Teja-Dunna/Fedrate_cut_analysis) |
 
+
+> Replace screenshot links with actual images/GIFs from your repos for extra flair.
 
 ---
 
 ## 📈 GitHub Stats
-![Bhanu-Teja-Dunna GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Bhanu Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanu-Teja-Dunna&show_icons=true&count_private=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Teja-Dunna&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Teja-Dunna&theme=radical)
 
 ---
 
@@ -43,3 +52,4 @@ I'm passionate about exploring the intersection of **finance and data**, buildin
 ---
 
 > “In finance, knowledge is power—but applied knowledge is profit.” 💹
+
