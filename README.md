@@ -70,7 +70,7 @@ Analyzed sector-level market reactions to U.S. Federal Reserve rate cuts using h
 
 ## Connect
 - 🔗 LinkedIn: https://www.linkedin.com/in/bhanu-teja-dunna  
-- 📧 Email: dunnabhanutej@gmail.com
+- 📧 Email: bhanutejadunna@gmail.com
 
 ---
 
