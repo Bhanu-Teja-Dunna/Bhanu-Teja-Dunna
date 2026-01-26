@@ -63,8 +63,11 @@ Analyzed sector-level market reactions to U.S. Federal Reserve rate cuts using h
 ---
 
 ## GitHub Activity
-![Metrics](./github-metrics.svg)
 
+<div align="center">
+	<img src="https://github-readme-stats-kohl-one-65.vercel.app/api?username=Bhanu-Teja-Dunna&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Bhanu's GitHub stats" width="420" />
+	<img src="https://github-readme-stats-kohl-one-65.vercel.app/api/top-langs/?username=Bhanu-Teja-Dunna&layout=compact&card_width=420&theme=dark" alt="Top languages" width="420" />
+</div>
 
 ---
 
